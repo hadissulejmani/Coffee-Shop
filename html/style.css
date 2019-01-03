@@ -1,0 +1,23 @@
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+div.fixed {
+    position: fixed;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    margin: 5px;
+}
+h1 {
+    background-color: red;
+}
