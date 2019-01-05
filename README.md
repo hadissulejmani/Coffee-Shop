@@ -1,3 +1,3 @@
 # Coffee-Shop
 
-A starting point for kids to learn web development.
+A sample project for coffee store.
