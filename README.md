@@ -1,3 +1,3 @@
 # Coffee-Shop
 
-A sample project for coffee store.
+A sample project for online coffee store.
