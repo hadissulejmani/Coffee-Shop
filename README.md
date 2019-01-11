@@ -1,3 +1,4 @@
 # Coffee-Shop
 
-A sample project for online coffee store.
+A sample project for online coffee store. It's mentioned to be as simple as its possible
+ to be.
