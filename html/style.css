@@ -37,8 +37,7 @@ body {
 
 header {
   background-color: black;
-  /*  sorry for the LONG urls, I had to upload them to google drive  */
-  background-image: url("https://lh5.googleusercontent.com/r5RE9rXD385mU-graNDABklRDfk8wSXDCuUpKvF_xnoHgaIXjgBVVLwS930cmMajr2r4EhgECNkgTeMPsK55=w2340-h1227-rw");
+  background-image: url("");
   background-size: 100%;
   background-position: center;
   height: 400px;
@@ -55,7 +54,7 @@ header a {
 }
 
 header .logo a {
-  background-image: url("https://lh5.googleusercontent.com/eYR9aZrIkyvFPz7Ic9NVb6TtEFjnTqaubE_W3lIFL2QkslJbvawPQMPGqUMClM0PcrVplTazu7uCQijjJMb2=w2340-h1227");
+  background-image: url("");
   background-size: 300px;
   background-repeat: no-repeat;
   display: inline-block;
@@ -76,8 +75,6 @@ nav li {
   display: inline-block;
   margin-right: 20px;
 }
-
-/* FEATURES */
 
 .features {
   background: white;
@@ -100,8 +97,6 @@ nav li {
   box-shadow: gray 0 0 10px;
   width: 200px;
 }
-
-/* FOOTER */
 
 footer {
   background: black;
